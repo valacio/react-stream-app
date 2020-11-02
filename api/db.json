@@ -1,29 +1,17 @@
 {
   "streams": [
+
     {
-      "title": "title",
-      "description": "test",
-      "id": 1
-    },
-    {
-      "title": "title",
-      "description": "desc",
-      "id": 2
-    },
-    {
-      "title": "title2",
-      "description": "desc2",
+      "title": "Guitar",
+      "description": "How to play guitar",
+      "userId": "116380015412333424066",
       "id": 3
     },
     {
-      "title": "title22",
-      "description": "desc22",
+      "title": "Enter the sandman 2",
+      "description": "Killers 2",
+      "userId": "116380015412333424066",
       "id": 4
-    },
-    {
-      "title": "asd",
-      "description": "asd",
-      "id": 5
     }
   ]
 }

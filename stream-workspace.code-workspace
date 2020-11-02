@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "..\\..\\..\\algoritmo"
+    },
+    {
+      "path": "..\\..\\..\\..\\interview\\hubspot"
+    },
+    {
+      "path": "..\\..\\..\\..\\interview\\hubspot\\hubspt_test"
+    }
+  ],
+  "settings": {
+    "editor.detectIndentation": false
+  }
+}
