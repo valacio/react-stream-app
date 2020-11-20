@@ -1,17 +1,10 @@
 {
   "streams": [
-
     {
       "title": "Guitar",
       "description": "How to play guitar",
       "userId": "116380015412333424066",
-      "id": 3
-    },
-    {
-      "title": "Enter the sandman 2",
-      "description": "Killers 2",
-      "userId": "116380015412333424066",
-      "id": 4
+      "id": 1
     }
   ]
 }
